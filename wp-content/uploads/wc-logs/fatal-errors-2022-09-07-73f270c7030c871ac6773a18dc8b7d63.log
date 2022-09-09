@@ -1,0 +1,30 @@
+2022-09-07T06:50:09+00:00 CRITICAL syntax error, unexpected token "function" in /home/dmarkov/public_html/roman/wp-content/themes/Divi-child/functions.php on line 33
+
+2022-09-07T06:50:10+00:00 CRITICAL syntax error, unexpected token "function" in /home/dmarkov/public_html/roman/wp-content/themes/Divi-child/functions.php on line 33
+
+2022-09-07T06:50:28+00:00 CRITICAL syntax error, unexpected token "function" in /home/dmarkov/public_html/roman/wp-content/themes/Divi-child/functions.php on line 33
+
+2022-09-07T06:50:29+00:00 CRITICAL syntax error, unexpected token "function" in /home/dmarkov/public_html/roman/wp-content/themes/Divi-child/functions.php on line 33
+
+2022-09-07T06:51:56+00:00 CRITICAL Uncaught Error: Call to undefined function add_actions() in /home/dmarkov/public_html/roman/wp-content/themes/Divi-child/functions.php:31
+Stack trace:
+#0 /home/dmarkov/public_html/roman/wp-settings.php(566): include()
+#1 /home/dmarkov/public_html/roman/wp-config.php(96): require_once('/home/dmarkov/p...')
+#2 /home/dmarkov/public_html/roman/wp-load.php(50): require_once('/home/dmarkov/p...')
+#3 /home/dmarkov/public_html/roman/wp-blog-header.php(13): require_once('/home/dmarkov/p...')
+#4 /home/dmarkov/public_html/roman/index.php(17): require('/home/dmarkov/p...')
+#5 {main}
+  thrown in /home/dmarkov/public_html/roman/wp-content/themes/Divi-child/functions.php on line 31
+
+2022-09-07T06:52:40+00:00 CRITICAL Uncaught Error: Call to undefined function add_actions() in /home/dmarkov/public_html/roman/wp-content/themes/Divi-child/functions.php:31
+Stack trace:
+#0 /home/dmarkov/public_html/roman/wp-settings.php(566): include()
+#1 /home/dmarkov/public_html/roman/wp-config.php(96): require_once('/home/dmarkov/p...')
+#2 /home/dmarkov/public_html/roman/wp-load.php(50): require_once('/home/dmarkov/p...')
+#3 /home/dmarkov/public_html/roman/wp-blog-header.php(13): require_once('/home/dmarkov/p...')
+#4 /home/dmarkov/public_html/roman/index.php(17): require('/home/dmarkov/p...')
+#5 {main}
+  thrown in /home/dmarkov/public_html/roman/wp-content/themes/Divi-child/functions.php on line 31
+
+2022-09-07T14:30:53+00:00 CRITICAL syntax error, unexpected identifier "field", expecting "]" in /home/dmarkov/public_html/roman/wp-content/themes/Divi-child/functions.php on line 42
+
