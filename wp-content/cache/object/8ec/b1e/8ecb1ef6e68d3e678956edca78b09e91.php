@@ -1,0 +1,1 @@
+(ß%c<?php exit; ?>a:1:{s:7:"content";a:1:{s:12:"Package size";a:5:{i:0;s:5:"100gr";i:1;s:5:"200gr";i:2;s:5:"500gr";i:3;s:3:"1kg";i:4;s:3:"2kg";}}}

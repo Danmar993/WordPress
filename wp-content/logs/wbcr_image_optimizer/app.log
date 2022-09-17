@@ -1,0 +1,520 @@
+
+17-09-2022 14:17:57 [dmarkov.wppsbootcamp.com][info] Parent plugin start installation!
+17-09-2022 14:17:57 [dmarkov.wppsbootcamp.com][info] Plugin installation: try create plugin tables.
+																	-DB Version: 0
+																	-Plugin Version in DB: 0
+																	-Current Plugin Version: 1.5.6
+17-09-2022 14:17:57 [dmarkov.wppsbootcamp.com][info] Parent plugin installation complete!
+-------------------------------
+17-09-2022 14:18:05 [dmarkov.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/dmarkov/public_html/projekat/wp-content/uploads/wio_backup)
+-------------------------------
+17-09-2022 14:20:45 [dmarkov.wppsbootcamp.com][info] Parent plugin start deactivation!
+17-09-2022 14:20:45 [dmarkov.wppsbootcamp.com][info] Parent plugin deactivation complete!
+-------------------------------
+17-09-2022 14:20:48 [dmarkov.wppsbootcamp.com][info] Parent plugin start installation!
+17-09-2022 14:20:48 [dmarkov.wppsbootcamp.com][info] Plugin installation: try create plugin tables.
+																	-DB Version: 2
+																	-Plugin Version in DB: 1.5.6
+																	-Current Plugin Version: 1.5.6
+17-09-2022 14:20:48 [dmarkov.wppsbootcamp.com][info] Parent plugin installation complete!
+-------------------------------
+17-09-2022 14:23:22 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:22 [dmarkov.wppsbootcamp.com][info] Try to create backup directory. Backup dir: (/home/dmarkov/public_html/projekat/wp-content/uploads/wio_backup/2022/09)
+17-09-2022 14:23:22 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/Mojo-Coffee-logos_white.png) to a remote server (server_1).
+17-09-2022 14:23:23 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:23 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/Mojo-Coffee-logos_white-150x150.png) to a remote server (server_1).
+17-09-2022 14:23:23 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:23 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/Mojo-Coffee-logos_white-300x300.png) to a remote server (server_1).
+17-09-2022 14:23:23 [dmarkov.wppsbootcamp.com][debug] New queue created #1, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;8&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:62244,&quot;final_size&quot;:15999,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:59990,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424603}
+17-09-2022 14:23:23 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 46
+-------------------------------
+17-09-2022 14:23:23 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:23 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/coffee-coffee-beans-liquid-cup.jpg) to a remote server (server_1).
+17-09-2022 14:23:23 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:24 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/coffee-coffee-beans-liquid-cup-150x150.jpg) to a remote server (server_1).
+17-09-2022 14:23:24 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:24 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/coffee-coffee-beans-liquid-cup-300x191.jpg) to a remote server (server_1).
+17-09-2022 14:23:24 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:24 [dmarkov.wppsbootcamp.com][debug] New queue created #2, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;22&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:422182,&quot;final_size&quot;:419622,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:391571,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424604}
+17-09-2022 14:23:24 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 45
+-------------------------------
+17-09-2022 14:23:24 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:24 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/slider-coffee2.jpg) to a remote server (server_1).
+17-09-2022 14:23:24 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:24 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/slider-coffee2-150x150.jpg) to a remote server (server_1).
+17-09-2022 14:23:24 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:24 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/slider-coffee2-300x169.jpg) to a remote server (server_1).
+17-09-2022 14:23:24 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:25 [dmarkov.wppsbootcamp.com][debug] New queue created #3, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;38&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:432871,&quot;final_size&quot;:139917,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:418070,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424605}
+17-09-2022 14:23:25 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 44
+-------------------------------
+17-09-2022 14:23:25 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:25 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/pablo-merchan-montes-SCbq6uKCyMY-unsplash-scaled.jpg) to a remote server (server_1).
+17-09-2022 14:23:25 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:25 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/pablo-merchan-montes-SCbq6uKCyMY-unsplash-150x150.jpg) to a remote server (server_1).
+17-09-2022 14:23:25 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:25 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/pablo-merchan-montes-SCbq6uKCyMY-unsplash-240x300.jpg) to a remote server (server_1).
+17-09-2022 14:23:26 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:26 [dmarkov.wppsbootcamp.com][debug] New queue created #4, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;47&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:411678,&quot;final_size&quot;:195090,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:393371,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424606}
+17-09-2022 14:23:26 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 43
+-------------------------------
+17-09-2022 14:23:26 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:26 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/about.jpg) to a remote server (server_1).
+17-09-2022 14:23:26 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:26 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/about-150x150.jpg) to a remote server (server_1).
+17-09-2022 14:23:26 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:26 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/about-300x200.jpg) to a remote server (server_1).
+17-09-2022 14:23:26 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:26 [dmarkov.wppsbootcamp.com][debug] New queue created #5, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;52&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:114970,&quot;final_size&quot;:91709,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:87021,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424606}
+17-09-2022 14:23:26 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 42
+-------------------------------
+17-09-2022 14:23:26 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:26 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/services-coffee-shop.jpeg) to a remote server (server_1).
+17-09-2022 14:23:27 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:27 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/services-coffee-shop-150x150.jpeg) to a remote server (server_1).
+17-09-2022 14:23:27 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:27 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/services-coffee-shop-300x200.jpeg) to a remote server (server_1).
+17-09-2022 14:23:27 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:27 [dmarkov.wppsbootcamp.com][debug] New queue created #6, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;59&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:185204,&quot;final_size&quot;:173465,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:158885,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424607}
+17-09-2022 14:23:27 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 41
+-------------------------------
+17-09-2022 14:23:27 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:27 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/woocommerce-placeholder.png) to a remote server (server_1).
+17-09-2022 14:23:28 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:28 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/woocommerce-placeholder-150x150.png) to a remote server (server_1).
+17-09-2022 14:23:28 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/woocommerce-placeholder-300x300.png) to a remote server (server_1).
+17-09-2022 14:23:28 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:28 [dmarkov.wppsbootcamp.com][debug] New queue created #7, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;67&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:115119,&quot;final_size&quot;:81865,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:102644,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424608}
+17-09-2022 14:23:28 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 40
+-------------------------------
+17-09-2022 14:23:28 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:28 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/coffee-beans-scaled.jpg) to a remote server (server_1).
+17-09-2022 14:23:29 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:29 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/coffee-beans-150x150.jpg) to a remote server (server_1).
+17-09-2022 14:23:29 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:29 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/coffee-beans-300x200.jpg) to a remote server (server_1).
+17-09-2022 14:23:29 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:29 [dmarkov.wppsbootcamp.com][debug] New queue created #8, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;170&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:1362256,&quot;final_size&quot;:429276,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:1329920,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424609}
+17-09-2022 14:23:29 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 39
+-------------------------------
+17-09-2022 14:23:29 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:30 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/novo-u-ponudi.png) to a remote server (server_1).
+17-09-2022 14:23:30 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:30 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/novo-u-ponudi-150x150.png) to a remote server (server_1).
+17-09-2022 14:23:30 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:30 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/novo-u-ponudi-300x121.png) to a remote server (server_1).
+17-09-2022 14:23:30 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:30 [dmarkov.wppsbootcamp.com][debug] New queue created #9, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;175&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:351151,&quot;final_size&quot;:99907,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:337697,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424610}
+17-09-2022 14:23:30 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 38
+-------------------------------
+17-09-2022 14:23:31 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:31 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/coffee-table.jpg) to a remote server (server_1).
+17-09-2022 14:23:31 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:31 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/coffee-table-150x150.jpg) to a remote server (server_1).
+17-09-2022 14:23:31 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:31 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/coffee-table-300x169.jpg) to a remote server (server_1).
+17-09-2022 14:23:31 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:31 [dmarkov.wppsbootcamp.com][debug] New queue created #10, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;207&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:127791,&quot;final_size&quot;:115234,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:112176,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424611}
+17-09-2022 14:23:31 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 37
+-------------------------------
+17-09-2022 14:23:31 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:31 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/home-coffee-scaled.jpg) to a remote server (server_1).
+17-09-2022 14:23:32 [dmarkov.wppsbootcamp.com][error] Error to optimize attachment (ID: #226). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 1200x1600
+	-&gt; Relative path: 2022/09/home-coffee-scaled.jpg
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: woocommerce_thumbnail, size: 300x300, MIME type: image/jpeg
+		-&gt; Type: woocommerce_gallery_thumbnail, size: 100x100, MIME type: image/jpeg
+		-&gt; Type: woocommerce_single, size: 600x800, MIME type: image/jpeg
+		-&gt; Type: medium, size: 225x300, MIME type: image/jpeg
+		-&gt; Type: large, size: 768x1024, MIME type: image/jpeg
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/jpeg
+		-&gt; Type: medium_large, size: 768x1024, MIME type: image/jpeg
+		-&gt; Type: 1536x1536, size: 1152x1536, MIME type: image/jpeg
+		-&gt; Type: 2048x2048, size: 1536x2048, MIME type: image/jpeg
+		-&gt; Type: et-pb-post-main-image, size: 400x250, MIME type: image/jpeg
+		-&gt; Type: et-pb-post-main-image-fullwidth, size: 1080x675, MIME type: image/jpeg
+		-&gt; Type: et-pb-portfolio-image, size: 400x284, MIME type: image/jpeg
+		-&gt; Type: et-pb-portfolio-module-image, size: 510x382, MIME type: image/jpeg
+		-&gt; Type: et-pb-portfolio-image-single, size: 1080x1440, MIME type: image/jpeg
+		-&gt; Type: et-pb-gallery-module-image-portrait, size: 400x516, MIME type: image/jpeg
+		-&gt; Type: et-pb-post-main-image-fullwidth-large, size: 2880x1800, MIME type: image/jpeg
+		-&gt; Type: et-pb-image--responsive--desktop, size: 1280x1707, MIME type: image/jpeg
+		-&gt; Type: et-pb-image--responsive--tablet, size: 980x1307, MIME type: image/jpeg
+		-&gt; Type: et-pb-image--responsive--phone, size: 480x640, MIME type: image/jpeg
+
+17-09-2022 14:23:32 [dmarkov.wppsbootcamp.com][debug] New queue created #11, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;226&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424612}
+17-09-2022 14:23:32 [dmarkov.wppsbootcamp.com][error] Failed to process (url: https://dmarkov.wppsbootcamp.com/projekat/wp-content/uploads/2022/09/home-coffee-scaled.jpg, path: /home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/home-coffee-scaled.jpg, quality: 90) as error was returned: Cannot copy from uploaded file
+17-09-2022 14:23:32 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 36
+-------------------------------
+17-09-2022 14:23:33 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:33 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/17244-caramel-topped-ice-cream-dessert-600x600-1.jpg) to a remote server (server_1).
+17-09-2022 14:23:33 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:33 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/17244-caramel-topped-ice-cream-dessert-600x600-1-150x150.jpg) to a remote server (server_1).
+17-09-2022 14:23:33 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:33 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/17244-caramel-topped-ice-cream-dessert-600x600-1-300x300.jpg) to a remote server (server_1).
+17-09-2022 14:23:33 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:33 [dmarkov.wppsbootcamp.com][debug] New queue created #12, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;244&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:86264,&quot;final_size&quot;:85016,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:59789,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424613}
+17-09-2022 14:23:33 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 35
+-------------------------------
+17-09-2022 14:23:33 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:34 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/nathan-dumlao-6VhPY27jdps-unsplash-scaled.jpg) to a remote server (server_1).
+17-09-2022 14:23:34 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:34 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/nathan-dumlao-6VhPY27jdps-unsplash-150x150.jpg) to a remote server (server_1).
+17-09-2022 14:23:34 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:34 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/nathan-dumlao-6VhPY27jdps-unsplash-300x200.jpg) to a remote server (server_1).
+17-09-2022 14:23:34 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:34 [dmarkov.wppsbootcamp.com][debug] New queue created #13, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;245&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:489014,&quot;final_size&quot;:184918,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:470730,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424614}
+17-09-2022 14:23:34 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 34
+-------------------------------
+17-09-2022 14:23:34 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:35 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/hot-chocolate.jpg) to a remote server (server_1).
+17-09-2022 14:23:35 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:35 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/hot-chocolate-150x150.jpg) to a remote server (server_1).
+17-09-2022 14:23:35 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:35 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/hot-chocolate-230x300.jpg) to a remote server (server_1).
+17-09-2022 14:23:35 [dmarkov.wppsbootcamp.com][debug] New queue created #14, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;248&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:132905,&quot;final_size&quot;:132597,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:126535,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424615}
+17-09-2022 14:23:35 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 33
+-------------------------------
+17-09-2022 14:23:35 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:35 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/hot-chocolate-1.jpg) to a remote server (server_1).
+17-09-2022 14:23:35 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:36 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/hot-chocolate-1-150x150.jpg) to a remote server (server_1).
+17-09-2022 14:23:36 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:36 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/hot-chocolate-1-300x300.jpg) to a remote server (server_1).
+17-09-2022 14:23:36 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:36 [dmarkov.wppsbootcamp.com][debug] New queue created #15, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;249&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:154342,&quot;final_size&quot;:152842,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:123973,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424616}
+17-09-2022 14:23:36 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 32
+-------------------------------
+17-09-2022 14:23:36 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:36 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/plazma-sejk-1.jpg) to a remote server (server_1).
+17-09-2022 14:23:36 [dmarkov.wppsbootcamp.com][error] Error to optimize attachment (ID: #251). Message: &quot;Cannot copy from uploaded file&quot;
+	-&gt; Attachment optimized? No
+	-&gt; Should be resized? No
+	-&gt; Original size: 1125x1386
+	-&gt; Relative path: 2022/09/plazma-sejk-1.jpg
+	-&gt; Server used: server_1
+	-&gt;  Additional sizes:
+		-&gt; Type: woocommerce_thumbnail, size: 300x300, MIME type: image/jpeg
+		-&gt; Type: woocommerce_gallery_thumbnail, size: 100x100, MIME type: image/jpeg
+		-&gt; Type: woocommerce_single, size: 600x739, MIME type: image/jpeg
+		-&gt; Type: medium, size: 244x300, MIME type: image/jpeg
+		-&gt; Type: large, size: 831x1024, MIME type: image/jpeg
+		-&gt; Type: thumbnail, size: 150x150, MIME type: image/jpeg
+		-&gt; Type: medium_large, size: 768x946, MIME type: image/jpeg
+		-&gt; Type: et-pb-post-main-image, size: 400x250, MIME type: image/jpeg
+		-&gt; Type: et-pb-post-main-image-fullwidth, size: 1080x675, MIME type: image/jpeg
+		-&gt; Type: et-pb-portfolio-image, size: 400x284, MIME type: image/jpeg
+		-&gt; Type: et-pb-portfolio-module-image, size: 510x382, MIME type: image/jpeg
+		-&gt; Type: et-pb-portfolio-image-single, size: 1080x1331, MIME type: image/jpeg
+		-&gt; Type: et-pb-gallery-module-image-portrait, size: 400x516, MIME type: image/jpeg
+		-&gt; Type: et-pb-image--responsive--tablet, size: 980x1207, MIME type: image/jpeg
+		-&gt; Type: et-pb-image--responsive--phone, size: 480x591, MIME type: image/jpeg
+
+17-09-2022 14:23:36 [dmarkov.wppsbootcamp.com][debug] New queue created #16, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;251&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;error&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:0,&quot;final_size&quot;:0,&quot;original_mime_type&quot;:&quot;&quot;,&quot;final_mime_type&quot;:&quot;&quot;,&quot;extra_data&quot;:&quot;{\&quot;error\&quot;:\&quot;optimization\&quot;,\&quot;error_msg\&quot;:\&quot;Cannot copy from uploaded file\&quot;,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424616}
+17-09-2022 14:23:36 [dmarkov.wppsbootcamp.com][error] Failed to process (url: https://dmarkov.wppsbootcamp.com/projekat/wp-content/uploads/2022/09/plazma-sejk-1.jpg, path: /home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/plazma-sejk-1.jpg, quality: 90) as error was returned: Cannot copy from uploaded file
+17-09-2022 14:23:36 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 31
+-------------------------------
+17-09-2022 14:23:36 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:36 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/irish-coffee.jpg) to a remote server (server_1).
+17-09-2022 14:23:37 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:37 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/irish-coffee-150x150.jpg) to a remote server (server_1).
+17-09-2022 14:23:37 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:37 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/irish-coffee-200x300.jpg) to a remote server (server_1).
+17-09-2022 14:23:37 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:37 [dmarkov.wppsbootcamp.com][debug] New queue created #17, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;252&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:256841,&quot;final_size&quot;:163424,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:237304,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424617}
+17-09-2022 14:23:37 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 30
+-------------------------------
+17-09-2022 14:23:37 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:37 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/irish-coffee-1.jpg) to a remote server (server_1).
+17-09-2022 14:23:38 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:38 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/irish-coffee-1-150x150.jpg) to a remote server (server_1).
+17-09-2022 14:23:38 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:38 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/irish-coffee-1-206x300.jpg) to a remote server (server_1).
+17-09-2022 14:23:38 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:38 [dmarkov.wppsbootcamp.com][debug] New queue created #18, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;253&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:256876,&quot;final_size&quot;:162404,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:237650,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424618}
+17-09-2022 14:23:38 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 29
+-------------------------------
+17-09-2022 14:23:38 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:38 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/Nutella-Latte.jpg) to a remote server (server_1).
+17-09-2022 14:23:38 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:38 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/Nutella-Latte-150x150.jpg) to a remote server (server_1).
+17-09-2022 14:23:38 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:38 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/Nutella-Latte-300x300.jpg) to a remote server (server_1).
+17-09-2022 14:23:38 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:38 [dmarkov.wppsbootcamp.com][debug] New queue created #19, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;254&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:58793,&quot;final_size&quot;:57481,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:30711,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424618}
+17-09-2022 14:23:38 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 28
+-------------------------------
+17-09-2022 14:23:39 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:39 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/cappuccino-classico.jpg) to a remote server (server_1).
+17-09-2022 14:23:39 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:39 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/cappuccino-classico-150x150.jpg) to a remote server (server_1).
+17-09-2022 14:23:39 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:39 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/cappuccino-classico-300x200.jpg) to a remote server (server_1).
+17-09-2022 14:23:39 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:39 [dmarkov.wppsbootcamp.com][debug] New queue created #20, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;255&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:45869,&quot;final_size&quot;:44401,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:28689,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424619}
+17-09-2022 14:23:39 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 27
+-------------------------------
+17-09-2022 14:23:39 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:39 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/macarons.jpg) to a remote server (server_1).
+17-09-2022 14:23:39 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:39 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/macarons-150x150.jpg) to a remote server (server_1).
+17-09-2022 14:23:39 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:39 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/macarons-300x157.jpg) to a remote server (server_1).
+17-09-2022 14:23:39 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:39 [dmarkov.wppsbootcamp.com][debug] New queue created #21, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;259&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:90681,&quot;final_size&quot;:85572,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:75845,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424619}
+17-09-2022 14:23:39 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 26
+-------------------------------
+17-09-2022 14:23:40 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:40 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/sphere.jpg) to a remote server (server_1).
+17-09-2022 14:23:40 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:40 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/sphere-150x150.jpg) to a remote server (server_1).
+17-09-2022 14:23:40 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:40 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/sphere-300x151.jpg) to a remote server (server_1).
+17-09-2022 14:23:40 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:40 [dmarkov.wppsbootcamp.com][debug] New queue created #22, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;263&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:147328,&quot;final_size&quot;:103958,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:129463,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424620}
+17-09-2022 14:23:40 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 25
+-------------------------------
+17-09-2022 14:23:40 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:40 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/testimonial1.jpg) to a remote server (server_1).
+17-09-2022 14:23:40 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:41 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/testimonial1-150x150.jpg) to a remote server (server_1).
+17-09-2022 14:23:41 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:41 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/testimonial1-300x300.jpg) to a remote server (server_1).
+17-09-2022 14:23:41 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:41 [dmarkov.wppsbootcamp.com][debug] New queue created #23, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;285&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:561390,&quot;final_size&quot;:229013,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:535655,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424621}
+17-09-2022 14:23:41 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 24
+-------------------------------
+17-09-2022 14:23:41 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:41 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/testimonial2.jpg) to a remote server (server_1).
+17-09-2022 14:23:41 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:41 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/testimonial2-150x150.jpg) to a remote server (server_1).
+17-09-2022 14:23:41 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:41 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/testimonial2-300x300.jpg) to a remote server (server_1).
+17-09-2022 14:23:41 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:41 [dmarkov.wppsbootcamp.com][debug] New queue created #24, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;286&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:492910,&quot;final_size&quot;:191270,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:474141,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424621}
+17-09-2022 14:23:41 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 23
+-------------------------------
+17-09-2022 14:23:42 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:42 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/espresso.jpg) to a remote server (server_1).
+17-09-2022 14:23:42 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:42 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/espresso-150x150.jpg) to a remote server (server_1).
+17-09-2022 14:23:42 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:42 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/espresso-300x196.jpg) to a remote server (server_1).
+17-09-2022 14:23:42 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:42 [dmarkov.wppsbootcamp.com][debug] New queue created #25, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;303&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:61063,&quot;final_size&quot;:59330,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:40590,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424622}
+17-09-2022 14:23:42 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 22
+-------------------------------
+17-09-2022 14:23:42 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:42 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/menu-wallpaper.jpg) to a remote server (server_1).
+17-09-2022 14:23:42 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:42 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/menu-wallpaper-150x150.jpg) to a remote server (server_1).
+17-09-2022 14:23:42 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:42 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/menu-wallpaper-300x300.jpg) to a remote server (server_1).
+17-09-2022 14:23:43 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:43 [dmarkov.wppsbootcamp.com][debug] New queue created #26, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;305&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:92763,&quot;final_size&quot;:89124,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:76813,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424623}
+17-09-2022 14:23:43 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 21
+-------------------------------
+17-09-2022 14:23:43 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:43 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/ambiance.png) to a remote server (server_1).
+17-09-2022 14:23:43 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:43 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/ambiance-150x150.png) to a remote server (server_1).
+17-09-2022 14:23:43 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:43 [dmarkov.wppsbootcamp.com][debug] New queue created #27, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;309&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:221023,&quot;final_size&quot;:75074,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:170675,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424623}
+17-09-2022 14:23:43 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 20
+-------------------------------
+17-09-2022 14:23:44 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:44 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/bar.png) to a remote server (server_1).
+17-09-2022 14:23:44 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:44 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/bar-150x150.png) to a remote server (server_1).
+17-09-2022 14:23:44 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:44 [dmarkov.wppsbootcamp.com][debug] New queue created #28, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;310&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:283821,&quot;final_size&quot;:89472,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:222749,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424624}
+17-09-2022 14:23:44 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 19
+-------------------------------
+17-09-2022 14:23:45 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:45 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/perspective.png) to a remote server (server_1).
+17-09-2022 14:23:45 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:45 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/perspective-150x150.png) to a remote server (server_1).
+17-09-2022 14:23:45 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:45 [dmarkov.wppsbootcamp.com][debug] New queue created #29, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;311&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:219849,&quot;final_size&quot;:71030,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:170451,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424625}
+17-09-2022 14:23:45 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 18
+-------------------------------
+17-09-2022 14:23:45 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:45 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/sitting-room.png) to a remote server (server_1).
+17-09-2022 14:23:46 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:46 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/sitting-room-150x150.png) to a remote server (server_1).
+17-09-2022 14:23:46 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:46 [dmarkov.wppsbootcamp.com][debug] New queue created #30, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;312&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:250838,&quot;final_size&quot;:78416,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:195445,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424626}
+17-09-2022 14:23:46 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 17
+-------------------------------
+17-09-2022 14:23:47 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:47 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/about-us-beans.jpg) to a remote server (server_1).
+17-09-2022 14:23:47 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:47 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/about-us-beans-150x150.jpg) to a remote server (server_1).
+17-09-2022 14:23:47 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:47 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/about-us-beans-300x200.jpg) to a remote server (server_1).
+17-09-2022 14:23:47 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:47 [dmarkov.wppsbootcamp.com][debug] New queue created #31, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;314&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:183862,&quot;final_size&quot;:165746,&quot;original_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;final_mime_type&quot;:&quot;image\/jpeg&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:166463,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424627}
+17-09-2022 14:23:47 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 16
+-------------------------------
+17-09-2022 14:23:47 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:47 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/contact-wallpaper.png) to a remote server (server_1).
+17-09-2022 14:23:48 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:48 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/contact-wallpaper-150x150.png) to a remote server (server_1).
+17-09-2022 14:23:48 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:48 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/contact-wallpaper-300x196.png) to a remote server (server_1).
+17-09-2022 14:23:49 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:49 [dmarkov.wppsbootcamp.com][debug] New queue created #32, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;319&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:1481576,&quot;final_size&quot;:398448,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:1351074,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424629}
+17-09-2022 14:23:49 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 15
+-------------------------------
+17-09-2022 14:23:49 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:49 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/visa-and-master.png) to a remote server (server_1).
+17-09-2022 14:23:49 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:49 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/visa-and-master-150x150.png) to a remote server (server_1).
+17-09-2022 14:23:49 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:49 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/visa-and-master-293x300.png) to a remote server (server_1).
+17-09-2022 14:23:50 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:50 [dmarkov.wppsbootcamp.com][debug] New queue created #33, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;342&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:187983,&quot;final_size&quot;:77312,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:152859,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424630}
+17-09-2022 14:23:50 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 14
+-------------------------------
+17-09-2022 14:23:50 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:50 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/26016-3-major-credit-card-logo-clipart.png) to a remote server (server_1).
+17-09-2022 14:23:50 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:51 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/26016-3-major-credit-card-logo-clipart-150x150.png) to a remote server (server_1).
+17-09-2022 14:23:51 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:51 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/26016-3-major-credit-card-logo-clipart-300x42.png) to a remote server (server_1).
+17-09-2022 14:23:51 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:51 [dmarkov.wppsbootcamp.com][debug] New queue created #34, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;343&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:626521,&quot;final_size&quot;:40972,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:602849,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424631}
+17-09-2022 14:23:51 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 13
+-------------------------------
+17-09-2022 14:23:51 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:51 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/rwanda-nyakarenzo-1.png) to a remote server (server_1).
+17-09-2022 14:23:52 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:52 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/rwanda-nyakarenzo-1-150x150.png) to a remote server (server_1).
+17-09-2022 14:23:52 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:52 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/rwanda-nyakarenzo-1-278x300.png) to a remote server (server_1).
+17-09-2022 14:23:52 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:53 [dmarkov.wppsbootcamp.com][debug] New queue created #35, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;363&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:936103,&quot;final_size&quot;:369869,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:725482,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424633}
+17-09-2022 14:23:53 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 12
+-------------------------------
+17-09-2022 14:23:53 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:53 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/sumatra-gayo-1.png) to a remote server (server_1).
+17-09-2022 14:23:53 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:54 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/sumatra-gayo-1-150x150.png) to a remote server (server_1).
+17-09-2022 14:23:54 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:54 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/sumatra-gayo-1-279x300.png) to a remote server (server_1).
+17-09-2022 14:23:54 [dmarkov.wppsbootcamp.com][debug] New queue created #36, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;364&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:768453,&quot;final_size&quot;:309951,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:1,\&quot;original_main_size\&quot;:723743,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424634}
+17-09-2022 14:23:54 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 11
+-------------------------------
+17-09-2022 14:23:54 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:54 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/ethiopia-guji-suke-quto-1.png) to a remote server (server_1).
+17-09-2022 14:23:55 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:55 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/ethiopia-guji-suke-quto-1-150x150.png) to a remote server (server_1).
+17-09-2022 14:23:55 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:55 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/ethiopia-guji-suke-quto-1-277x300.png) to a remote server (server_1).
+17-09-2022 14:23:56 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:56 [dmarkov.wppsbootcamp.com][debug] New queue created #37, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;365&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:987895,&quot;final_size&quot;:400819,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:777537,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424636}
+17-09-2022 14:23:56 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 10
+-------------------------------
+17-09-2022 14:23:56 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:56 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/vietnam-lotus-farm-1.png) to a remote server (server_1).
+17-09-2022 14:23:56 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:57 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/vietnam-lotus-farm-1-150x150.png) to a remote server (server_1).
+17-09-2022 14:23:57 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:57 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/vietnam-lotus-farm-1-279x300.png) to a remote server (server_1).
+17-09-2022 14:23:57 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:57 [dmarkov.wppsbootcamp.com][debug] New queue created #38, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;366&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:880695,&quot;final_size&quot;:384961,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:675183,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424637}
+17-09-2022 14:23:57 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 9
+-------------------------------
+17-09-2022 14:23:57 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:57 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/kenya-muranga-1.png) to a remote server (server_1).
+17-09-2022 14:23:58 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:58 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/kenya-muranga-1-150x150.png) to a remote server (server_1).
+17-09-2022 14:23:58 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:58 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/kenya-muranga-1-277x300.png) to a remote server (server_1).
+17-09-2022 14:23:59 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:23:59 [dmarkov.wppsbootcamp.com][debug] New queue created #39, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;367&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:807316,&quot;final_size&quot;:336927,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:603425,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424639}
+17-09-2022 14:23:59 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 8
+-------------------------------
+17-09-2022 14:23:59 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:23:59 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/tanzania-rungwe-1.png) to a remote server (server_1).
+17-09-2022 14:24:00 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:24:00 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/tanzania-rungwe-1-150x150.png) to a remote server (server_1).
+17-09-2022 14:24:00 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:24:00 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/tanzania-rungwe-1-278x300.png) to a remote server (server_1).
+17-09-2022 14:24:00 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:24:00 [dmarkov.wppsbootcamp.com][debug] New queue created #40, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;368&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:924168,&quot;final_size&quot;:383207,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:729905,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424640}
+17-09-2022 14:24:00 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 7
+-------------------------------
+17-09-2022 14:24:00 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:24:00 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/yemen-mokka-matari-1.png) to a remote server (server_1).
+17-09-2022 14:24:01 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:24:01 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/yemen-mokka-matari-1-150x150.png) to a remote server (server_1).
+17-09-2022 14:24:01 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:24:01 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/yemen-mokka-matari-1-279x300.png) to a remote server (server_1).
+17-09-2022 14:24:01 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:24:01 [dmarkov.wppsbootcamp.com][debug] New queue created #41, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;369&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:782774,&quot;final_size&quot;:373038,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:581848,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424641}
+17-09-2022 14:24:01 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 6
+-------------------------------
+17-09-2022 14:24:02 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:24:02 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/sumatra-gayo-2.png) to a remote server (server_1).
+17-09-2022 14:24:02 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:24:02 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/sumatra-gayo-2-150x150.png) to a remote server (server_1).
+17-09-2022 14:24:03 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:24:03 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/sumatra-gayo-2-279x300.png) to a remote server (server_1).
+17-09-2022 14:24:03 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:24:03 [dmarkov.wppsbootcamp.com][debug] New queue created #42, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;370&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:928632,&quot;final_size&quot;:372313,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:723743,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424643}
+17-09-2022 14:24:03 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 5
+-------------------------------
+17-09-2022 14:24:04 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:24:04 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/nicaragua-mataglapa-jinotega-1.png) to a remote server (server_1).
+17-09-2022 14:24:05 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:24:05 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/nicaragua-mataglapa-jinotega-1-150x150.png) to a remote server (server_1).
+17-09-2022 14:24:05 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:24:05 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/nicaragua-mataglapa-jinotega-1-278x300.png) to a remote server (server_1).
+17-09-2022 14:24:06 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:24:06 [dmarkov.wppsbootcamp.com][debug] New queue created #43, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;371&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:978600,&quot;final_size&quot;:381109,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:758280,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424646}
+17-09-2022 14:24:06 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 4
+-------------------------------
+17-09-2022 14:24:06 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:24:06 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/colombia-risaralda-1.png) to a remote server (server_1).
+17-09-2022 14:24:07 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:24:07 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/colombia-risaralda-1-150x150.png) to a remote server (server_1).
+17-09-2022 14:24:07 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:24:07 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/colombia-risaralda-1-272x300.png) to a remote server (server_1).
+17-09-2022 14:24:07 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:24:07 [dmarkov.wppsbootcamp.com][debug] New queue created #44, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;372&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:1135497,&quot;final_size&quot;:440680,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:913744,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424647}
+17-09-2022 14:24:07 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 3
+-------------------------------
+17-09-2022 14:24:07 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:24:07 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/guatemala-finca-el-morito-1.png) to a remote server (server_1).
+17-09-2022 14:24:08 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:24:08 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/guatemala-finca-el-morito-1-150x150.png) to a remote server (server_1).
+17-09-2022 14:24:08 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:24:08 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/guatemala-finca-el-morito-1-276x300.png) to a remote server (server_1).
+17-09-2022 14:24:09 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:24:09 [dmarkov.wppsbootcamp.com][debug] New queue created #45, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;373&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:994046,&quot;final_size&quot;:387377,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:770114,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424649}
+17-09-2022 14:24:09 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 2
+-------------------------------
+17-09-2022 14:24:09 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:24:09 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/logo_transparent.png) to a remote server (server_1).
+17-09-2022 14:24:09 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:24:09 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/logo_transparent-150x150.png) to a remote server (server_1).
+17-09-2022 14:24:09 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:24:09 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/logo_transparent-300x300.png) to a remote server (server_1).
+17-09-2022 14:24:09 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:24:09 [dmarkov.wppsbootcamp.com][debug] New queue created #46, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;393&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:12777,&quot;final_size&quot;:10229,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:2,\&quot;original_main_size\&quot;:6193,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424649}
+17-09-2022 14:24:09 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 1
+-------------------------------
+17-09-2022 14:24:10 [dmarkov.wppsbootcamp.com][info] Start bulk optimization process! Scope: media-library
+17-09-2022 14:24:10 [dmarkov.wppsbootcamp.com][info] Preparing to upload a file (/home/dmarkov/public_html/projekat/wp-content/uploads/2022/09/favicon.png) to a remote server (server_1).
+17-09-2022 14:24:10 [dmarkov.wppsbootcamp.com][info] File successfully uploaded to remote server (server_1).
+17-09-2022 14:24:10 [dmarkov.wppsbootcamp.com][debug] New queue created #47, attributes values: {&quot;server_id&quot;:null,&quot;object_id&quot;:&quot;409&quot;,&quot;object_name&quot;:&quot;&quot;,&quot;item_type&quot;:&quot;attachment&quot;,&quot;item_hash&quot;:null,&quot;item_hash_alternative&quot;:null,&quot;result_status&quot;:&quot;success&quot;,&quot;processing_level&quot;:&quot;normal&quot;,&quot;is_backed_up&quot;:true,&quot;original_size&quot;:200,&quot;final_size&quot;:200,&quot;original_mime_type&quot;:&quot;image\/png&quot;,&quot;final_mime_type&quot;:&quot;image\/png&quot;,&quot;extra_data&quot;:&quot;{\&quot;thumbnails_count\&quot;:0,\&quot;original_main_size\&quot;:200,\&quot;class\&quot;:\&quot;RIO_Attachment_Extra_Data\&quot;}&quot;,&quot;created_at&quot;:1663424650}
+17-09-2022 14:24:10 [dmarkov.wppsbootcamp.com][info] End bulk optimization process! Scope: media-library. Remain: 0
+-------------------------------
+17-09-2022 14:25:09 [dmarkov.wppsbootcamp.com][info] Parent plugin start deactivation!
+17-09-2022 14:25:09 [dmarkov.wppsbootcamp.com][info] Parent plugin deactivation complete!
+-------------------------------
